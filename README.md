@@ -21,7 +21,7 @@ The following is a guide to launching a TakeShape project that injects Ecommerce
 
 5. Follow [the instructions here](https://app.takeshape.io/docs/get-started/server/aws-lambda#Configuring-your-AWS-Lambda-Endpoint) to set up AWS with your local project.
 
-5. Open the project directory and edit `.env.example`. Replace `Your-Endpoint-Here` with your endpoint, and `Your-Api-Key-Here` with your TakeShape project's api key. When you're done, save it and rename the file to `.env`.
+5. Open the project directory and edit `.env.example`. Replace `Your-Endpoint-Here` with your TakeShape and AWS endpoints, and `Your-Api-Key-Here` with your TakeShape project's api key. When you're done, save it and rename the file to `.env`.
 
 6. Run `npm run start` from the root directory of the project in your terminal.
 
