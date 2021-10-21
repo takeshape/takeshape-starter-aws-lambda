@@ -1,0 +1,6 @@
+name: AWS Lambda Ecommerce Example
+description: 'This project shows how to use TakeShape with AWS Lambda.'
+categories:
+  - examples
+  - use on servers
+  - aws lambda
